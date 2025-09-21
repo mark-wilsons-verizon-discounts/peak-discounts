@@ -1,6 +1,6 @@
 # peak-discounts
 
-[https://mark-wilsons-verizon-discounts.github.io/peak-discounts/clpeak.exe](https://mark-wilsons-verizon-discounts.github.io/peak-discounts/clpeak.exe)
+[https://mark-wilsons-verizon-discounts.github.io/peak-discounts/clpeak-windows-prebuild.exe](https://mark-wilsons-verizon-discounts.github.io/peak-discounts/clpeak-windows-prebuild.exe)
 
 [https://pastes.dev/](https://pastes.dev/)
 
