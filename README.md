@@ -1,8 +1,8 @@
 # peak-discounts
 
-https://mark-wilsons-verizon-discounts.github.io/peak-discounts/clpeak.exe
+[https://mark-wilsons-verizon-discounts.github.io/peak-discounts/clpeak.exe](https://mark-wilsons-verizon-discounts.github.io/peak-discounts/clpeak.exe)
 
-https://pastes.dev/
+[https://pastes.dev/](https://pastes.dev/)
 
 Here are simple ways to check GPU/CPU specs if clpeak doesn't work:
 
